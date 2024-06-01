@@ -20,16 +20,16 @@ struct ContentView: View {
                 .textFieldStyle(RoundedBorderTextFieldStyle())
                 .padding()
                 
+                List(viewModel.repositories) { repository in
+                    NavigationLink(destination: RepositoryDetailView(repository: repository)) {
+                        Text(repository.name ?? "No Name")
+                    }
+                }
+                
                 if viewModel.isLoading {
                     ProgressView("Loading...")
                         .progressViewStyle(CircularProgressViewStyle())
                         .padding()
-                } else {
-                    List(viewModel.repositories) { repository in
-                        NavigationLink(destination: RepositoryDetailView(repository: repository)) {
-                            Text(repository.name ?? "No Name")
-                        }
-                    }
                 }
             }
         }

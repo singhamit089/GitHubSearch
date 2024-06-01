@@ -12,6 +12,7 @@ class RepositoryViewModel: ObservableObject {
     @Published var repositories: [Repository] = []
     @Published var isLoading: Bool = false
     private var gitHubService = GitHubService()
+    private var cancellables = Set<AnyCancellable>()
     
     func searchRepositories(query: String) {
         self.isLoading = true
