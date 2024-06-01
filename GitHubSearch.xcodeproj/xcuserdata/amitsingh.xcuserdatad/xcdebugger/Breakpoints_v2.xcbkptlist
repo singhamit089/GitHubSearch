@@ -7,38 +7,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "6AA0A7CB-E5B9-45C5-ADD2-BC3A29A611E4"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "GitHubSearch/Views/ContentView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "11"
-            endingLineNumber = "11"
-            landmarkName = "ContentView"
-            landmarkType = "14">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "63C7B500-807B-4F01-8C46-21FC67B5F7E4"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "GitHubSearch/Views/ContentView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "18"
-            endingLineNumber = "18"
-            landmarkName = "body"
-            landmarkType = "24">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "1AE1C1A6-730A-40BC-9928-844B9B6D4D5F"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
@@ -46,54 +14,10 @@
             filePath = "GitHubSearch/ViewModel/RepositoryViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "16"
-            endingLineNumber = "16"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
             landmarkName = "searchRepositories(query:)"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "1AE1C1A6-730A-40BC-9928-844B9B6D4D5F - 3577ee16294f2338"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "GitHubSearch.RepositoryViewModel.searchRepositories(query: Swift.String) -&gt; ()"
-                  moduleName = "GitHubSearch"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/amitsingh/Development/GitHubSearch/GitHubSearch/ViewModel/RepositoryViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "16"
-                  endingLineNumber = "16">
-               </Location>
-               <Location
-                  uuid = "1AE1C1A6-730A-40BC-9928-844B9B6D4D5F - 62eca44854c929e9"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;GitHubSearch.Repository&gt;&gt;) -&gt; () in GitHubSearch.RepositoryViewModel.searchRepositories(query: Swift.String) -&gt; ()"
-                  moduleName = "GitHubSearch"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/amitsingh/Development/GitHubSearch/GitHubSearch/ViewModel/RepositoryViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "16"
-                  endingLineNumber = "16">
-               </Location>
-               <Location
-                  uuid = "1AE1C1A6-730A-40BC-9928-844B9B6D4D5F - f9d29324099d7c95"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;GitHubSearch.Repository&gt;&gt;) -&gt; () in GitHubSearch.RepositoryViewModel.searchRepositories(query: Swift.String) -&gt; ()"
-                  moduleName = "GitHubSearch"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/amitsingh/Development/GitHubSearch/GitHubSearch/ViewModel/RepositoryViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "16"
-                  endingLineNumber = "16">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -110,68 +34,6 @@
             endingLineNumber = "12"
             landmarkName = "searchRepositor(query:completion:)"
             landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "2116CA66-5150-43DB-AF04-E008CEF3FABA"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "GitHubSearch/Views/ContentView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "14"
-            endingLineNumber = "14"
-            landmarkName = "body"
-            landmarkType = "24">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "9A3F66D8-3005-4ADF-9AD5-CE590BBC23D1"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "GitHubSearch/Views/ContentView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "23"
-            endingLineNumber = "23"
-            landmarkName = "body"
-            landmarkType = "24">
-            <Locations>
-               <Location
-                  uuid = "9A3F66D8-3005-4ADF-9AD5-CE590BBC23D1 - f499ab8ecb31d3a"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;GitHubSearch.Repository&gt;, Swift.Int, SwiftUI.NavigationLink&lt;SwiftUI.Text, GitHubSearch.RepositoryDetailView&gt;&gt;&gt;)&gt; in closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;GitHubSearch.Repository&gt;, Swift.Int, SwiftUI.NavigationLink&lt;SwiftUI.Text, GitHubSearch.RepositoryDetailView&gt;&gt;&gt;)&gt;&gt; in GitHubSearch.ContentView.body.getter : some"
-                  moduleName = "GitHubSearch"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/amitsingh/Development/GitHubSearch/GitHubSearch/Views/ContentView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "23"
-                  endingLineNumber = "23">
-               </Location>
-               <Location
-                  uuid = "9A3F66D8-3005-4ADF-9AD5-CE590BBC23D1 - cb1801c225edec9d"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #2 (GitHubSearch.Repository) -&gt; SwiftUI.NavigationLink&lt;SwiftUI.Text, GitHubSearch.RepositoryDetailView&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;GitHubSearch.Repository&gt;, Swift.Int, SwiftUI.NavigationLink&lt;SwiftUI.Text, GitHubSearch.RepositoryDetailView&gt;&gt;&gt;)&gt; in closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;GitHubSearch.Repository&gt;, Swift.Int, SwiftUI.NavigationLink&lt;SwiftUI.Text, GitHubSearch.RepositoryDetailView&gt;&gt;&gt;)&gt;&gt; in GitHubSearch.ContentView.body.getter : some"
-                  moduleName = "GitHubSearch"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/amitsingh/Development/GitHubSearch/GitHubSearch/Views/ContentView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "24"
-                  endingLineNumber = "24">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
